@@ -1,51 +1,72 @@
-<h1 align="center">Hi 👋, This is meee</h1>
+<h1 align="center">Hi, I'm Jeyaram 👋</h1>
+<h3 align="center">Full-Stack Developer · NestJS · React · Next.js · TypeScript</h3>
 
-<h4>About Me:</h4>
-
-- 📫 Presently At **doodle blue**
-
-- 🌱 I’m currently learning **python**
-
-- 📫 How to reach me **jrwithjs@gmail.com**
-
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; font-family: Consolas, monospace; overflow-x: auto;">
-    <pre>
-      const Profile = () => {
-        console.log("A passionate developer from india!");
-      };
-      Profile();
-    </pre>
-</div>
-
-<h4 align="left">Technologies:</h4>
-<p align="left">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>Node&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>Git&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/>Azure&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>Docker&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>Linux&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>Nginx&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>React&nbsp;
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/>Angular&nbsp;
+<p align="center">
+  <a href="mailto:iamjeyaram.p@gmail.com"><img src="https://img.shields.io/badge/Email-iamjeyaram.p@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
-<h4 align="left">Languages:</h4>
-<p align="left">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>HTML&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>CSS&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>JS&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/>TS&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>Python&nbsp;
+### About me
+
+- 💼 Full-stack developer at **Samunnati**, building backend services and web apps
+- ⚙️ Backend: **NestJS** / Node.js APIs, auth, queues, and database design
+- 🖥️ Frontend: **React** and **Next.js** apps with TypeScript
+- 🗄️ Data: **MySQL**, **MongoDB**, **PostgreSQL**, **Firebase**
+- 📱 Currently learning **Android development with Kotlin & Java**
+- 📍 Chennai, India
+
+### Tech stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Pyqt5](https://github.com/Jaysivaram/Pyqt5) | Desktop app with login, registration and home screens | Python · PyQt5 |
+| [dsa](https://github.com/Jaysivaram/dsa) | Data structures & algorithms practice, grouped by pattern | Python |
+
+🚧 Currently building: a production-ready NestJS API and a full-stack Next.js app. More coming soon.
+
+<!-- Add a row for each new project you ship and pin it on your profile. -->
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaysivaram&show_icons=true&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysivaram&layout=compact&hide_border=true" />
 </p>
-
-<h4 align="left">Databases:</h4>
-<p align="left"style="font-size: 2px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>MySQL&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>MongoDB&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="influxdb" width="30" height="30"/>InfluxDB&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/timescale/timescale-icon.svg" alt="timescaledb" width="30" height="30"/>TimescaleDB&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>PostgreSQL&nbsp;
-</p>
-
-
