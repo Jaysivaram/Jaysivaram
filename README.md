@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:iamjeyaram.p@gmail.com"><img src="https://img.shields.io/badge/Email-iamjeyaram.p@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeya-ram28"><img src="https://img.shields.io/badge/LinkedIn-jeya--ram28-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,6 +16,7 @@
 - 🗄️ Data: **MySQL**, **MongoDB**, **PostgreSQL**, **Firebase**
 - 🤖 Currently learning **AI & Machine Learning with Python**: TensorFlow, ML fundamentals and **agentic AI**
 - 📍 Chennai, India
+- 🗣️ Languages: English, Tamil
 
 ### Tech stack
 
