@@ -13,7 +13,7 @@
 - ⚙️ Backend: **NestJS** / Node.js APIs, auth, queues, and database design
 - 🖥️ Frontend: **React** and **Next.js** apps with TypeScript
 - 🗄️ Data: **MySQL**, **MongoDB**, **PostgreSQL**, **Firebase**
-- 📱 Currently learning **Android development with Kotlin & Java**
+- 🤖 Currently learning **AI & Machine Learning with Python**: TensorFlow, ML fundamentals and **agentic AI**
 - 📍 Chennai, India
 
 ### Tech stack
@@ -22,8 +22,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Backend**
@@ -44,6 +42,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML (learning)**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E40C9?style=flat-square&logo=openaigym&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **DevOps & Tools**
 
